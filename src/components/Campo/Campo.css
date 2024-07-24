@@ -1,0 +1,40 @@
+.campo{
+    margin: 24px 0;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    /* background-color: #6278f7; */
+    /* height: 100%; */
+    
+
+}
+
+.campo label{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 8px;
+
+}
+
+.campo input{
+
+    background-color: #FFFFFF;
+    height: 80px;
+    border: none;
+    box-shadow: 10px 10px 30px rgba(0,0,0,0.06);
+    padding: 0 20px;
+    border-radius: 10px;
+    outline-color: #6278f7;
+    font-size: 16px;
+   
+    
+}
+
+.campo-color input{
+    height: 40px;
+    padding: 5px 20px;
+    width: 100%;
+    border-style: none;
+}
